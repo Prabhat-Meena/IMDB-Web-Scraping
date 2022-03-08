@@ -1,0 +1,16 @@
+{
+    "name": "Charlie",
+    "Director": [
+        "Martin Prakkat"
+    ],
+    "country": "India",
+    "language": [
+        "Malayalam"
+    ],
+    "posterUrl": "https://www.imdb.com/title/tt5082014/mediaviewer/rm3607879936/?ref_=tt_ov_i",
+    "bio": "A young, nonconforming woman named Tessa gets entangled in a cat-and-mouse chase in the by-lanes of Kerala, hunting for a mysterious artist who previously lived in her apartment.",
+    "runtime": "2h 10m",
+    "gener": [
+        "Adventure"
+    ]
+}

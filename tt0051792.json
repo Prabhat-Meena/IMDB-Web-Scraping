@@ -1,0 +1,16 @@
+{
+    "name": "Jalsaghar",
+    "Director": [
+        "Satyajit Ray"
+    ],
+    "country": "India",
+    "language": [
+        "Bengali"
+    ],
+    "posterUrl": "https://www.imdb.com/title/tt0051792/mediaviewer/rm3287735297/?ref_=tt_ov_i",
+    "bio": "Depicts the end days of a decadent zamindar (landlord) in Bengal, and his efforts to uphold his family prestige even when faced with economic adversity.",
+    "runtime": "1h 40m",
+    "gener": [
+        "Drama"
+    ]
+}

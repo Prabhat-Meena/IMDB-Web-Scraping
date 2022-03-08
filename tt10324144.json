@@ -1,0 +1,16 @@
+{
+    "name": "Article 15",
+    "Director": [
+        "Anubhav Sinha"
+    ],
+    "country": "India",
+    "language": [
+        "Hindi"
+    ],
+    "posterUrl": "https://www.imdb.com/title/tt10324144/mediaviewer/rm1846056961/?ref_=tt_ov_i",
+    "bio": "In the rural heartlands of India, an upright police officer sets out on a crusade against violent caste-based crimes and discrimination.",
+    "runtime": "2h 10m",
+    "gener": [
+        "Crime"
+    ]
+}

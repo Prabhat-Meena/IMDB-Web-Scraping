@@ -1,0 +1,18 @@
+{
+    "name": "Sardar Udham",
+    "Director": [
+        "Shoojit Sircar"
+    ],
+    "country": "India",
+    "language": [
+        "Hindi",
+        "English",
+        "Russian"
+    ],
+    "posterUrl": "https://www.imdb.com/title/tt10280296/mediaviewer/rm1354626561/?ref_=tt_ov_i",
+    "bio": "A biopic detailing the 2 decades that Punjabi Sikh revolutionary Udham Singh spent planning the assassination of the man responsible for the Jallianwala Bagh massacre.",
+    "runtime": "2h 44m",
+    "gener": [
+        "Biography"
+    ]
+}

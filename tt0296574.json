@@ -1,0 +1,15 @@
+{
+    "name": "Company",
+    "Director": [
+        "Ram Gopal Varma"
+    ],
+    "country": "India",
+    "language": [
+        "Hindi"
+    ],
+    "posterUrl": "https://www.imdb.com/title/tt0296574/mediaviewer/rm1304891392/?ref_=tt_ov_i",
+    "runtime": "2h 22m",
+    "gener": [
+        "Action"
+    ]
+}

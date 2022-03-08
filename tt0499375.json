@@ -1,0 +1,16 @@
+{
+    "name": "Guru",
+    "Director": [
+        "Mani Ratnam"
+    ],
+    "country": "India",
+    "language": [
+        "Hindi"
+    ],
+    "posterUrl": "https://www.imdb.com/title/tt0499375/mediaviewer/rm2595328001/?ref_=tt_ov_i",
+    "bio": "A villager, Gurukant Desai, arrives in Bombay 1958, and rises from its streets to become the GURU, the biggest tycoon in Indian history.",
+    "runtime": "2h 42m",
+    "gener": [
+        "Drama"
+    ]
+}

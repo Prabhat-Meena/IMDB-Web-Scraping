@@ -1,0 +1,16 @@
+{
+    "name": "My Name Is Khan",
+    "Director": [
+        "Karan Johar"
+    ],
+    "language": [
+        "Hindi",
+        "English"
+    ],
+    "posterUrl": "https://www.imdb.com/title/tt1188996/mediaviewer/rm2416238848/?ref_=tt_ov_i",
+    "bio": "An Indian Muslim man with Asperger's syndrome takes a challenge to speak to the President of the United States seriously and embarks on a cross-country journey.",
+    "runtime": "2h 45m",
+    "gener": [
+        "Drama"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Indian",
+    "Director": [
+        "S. Shankar"
+    ],
+    "country": "India",
+    "language": [
+        "Tamil"
+    ],
+    "posterUrl": "https://www.imdb.com/title/tt0116630/mediaviewer/rm2523294464/?ref_=tt_ov_i",
+    "bio": "A veteran freedom fighter enraged with the rising crime and corruption in the society murders all the wrong doers one by one using an ancient martial arts technique.",
+    "runtime": "3h 5m",
+    "gener": [
+        "Action"
+    ]
+}

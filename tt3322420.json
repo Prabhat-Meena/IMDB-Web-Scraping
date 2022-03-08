@@ -1,0 +1,20 @@
+{
+    "name": "Queen",
+    "Director": [
+        "Vikas Bahl"
+    ],
+    "country": "India",
+    "language": [
+        "Hindi",
+        "English",
+        "French",
+        "Japanese",
+        "Dutch"
+    ],
+    "posterUrl": "https://www.imdb.com/title/tt3322420/mediaviewer/rm857046528/?ref_=tt_ov_i",
+    "bio": "A Delhi girl from a traditional family sets out on a solo honeymoon after her marriage gets cancelled.",
+    "runtime": "2h 26m",
+    "gener": [
+        "Adventure"
+    ]
+}
